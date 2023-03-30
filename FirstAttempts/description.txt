@@ -1,0 +1,1 @@
+This are the files I used in my first training attempts, in order to define the best models, datasets and transforms.

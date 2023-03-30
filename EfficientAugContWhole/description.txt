@@ -1,0 +1,1 @@
+This is a training continuation of the EfficientAugCont model, trained an additiona 700 epochs, without using cropping (model is tuned on whole images).

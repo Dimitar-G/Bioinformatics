@@ -1,0 +1,1 @@
+This is a training continuation of the EfficientAug model, trained for an additional 800 epochs.
